@@ -10,7 +10,8 @@ function removeWidth(element) {
 issueDivs = [];
 issueDivs = document.getElementsByClassName("Box_overflow-visible__1awWb");
 console.log(issueDivs);
-for (const element of issueDivs) {
-    removeWidth(element);
+for (let index = 0; index < issueDivs.length; ++index) {
+    const element = issueDivs[index];
+       removeWidth(element);
   	console.log("removed width");
 }
