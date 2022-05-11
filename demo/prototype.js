@@ -8,4 +8,4 @@ function removeWidth(element) {
 	console.log("removed width");
 }
 
-document.getElementByClassName("Box_overflow-visible__1awWb").forEach(removeWidth);
+document.getElementsByClassName("Box_overflow-visible__1awWb").forEach(removeWidth);
