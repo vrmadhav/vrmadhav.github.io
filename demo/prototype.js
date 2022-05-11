@@ -1,6 +1,8 @@
 
-//remove uneccesary width crap
 
+console.log("JS Prototype file loaded");
+
+//remove uneccesary width crap
 function removeWidth(element) {
 	element.style.removeProperty('width');
 	console.log("removed width");
