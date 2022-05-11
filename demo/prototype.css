@@ -4,3 +4,136 @@
 .Badge_badge__3G8ts {
   display: none;
 }
+
+.Box_inset-square__3itmI.Box_inset-size-medium__LKixJ {
+  /* padding: 16px; */
+  /* padding: 26px; */
+  /* padding: 36px; */
+  /* padding: 35px; */
+  padding: 34px;
+}
+
+.Table_table-wrapper__3NIVk.Table_with-header__3JdIF {
+  /* border-bottom-left-radius: var(--border-radius-plus-2); */
+  /* border-bottom-right-radius: var(--border-radius-plus-2); */
+  /* border-radius: 4; */
+  /* border-radius: 4p; */
+  /* border-radius: 4px; */
+  /* border-radius: 5px; */
+  /* border-radius: 6px; */
+  /* border-radius: 7px; */
+  border-radius: 8px;
+}
+
+.Table_header-cell-inner__hL3ua {
+  /* text-align: center; */
+  /* padding-left: 4; */
+  /* padding-left: 4p; */
+  /* padding-left: 4px; */
+  /* padding-left: 5px; */
+  /* padding-left: 6px; */
+  /* padding-left: 7px; */
+  /* padding-left: 8px; */
+  /* padding-left: 9px; */
+  /* padding-left: 10px; */
+  /* padding-left: 11px; */
+  /* padding-left: 12px; */
+  /* padding-left: 13px; */
+  /* padding-left: 14px; */
+  /* padding-left: 16px; */
+  /* padding-right: 4; */
+  /* padding-right: 4p; */
+  /* padding-right: 4px; */
+  /* padding-right: 14px; */
+  /* padding-right: 24px; */
+  /* padding-right: 34px; */
+  /* padding-right: 104px; */
+  /* padding-right: 94px; */
+  /* padding-right: 84px; */
+  /* padding-right: 74px; */
+  /* padding-right: 64px; */
+  /* padding-right: 54px; */
+  /* padding-right: 44px; */
+  /* padding-right: ; */
+  padding: ;
+  padding-left: 15px;
+}
+
+.Table_body-cell-outer__2ZHn2 {
+  /* padding: 0; */
+  /* padding: 0 inherit; */
+  /* padding: 0 0; */
+  /* padding: 0 0 inherit; */
+  /* padding: 0 0 0; */
+  /* padding: 0 0 0 inherit; */
+  /* padding: 0 0 0 4; */
+  /* padding: 0 0 0 4p; */
+  /* padding: 0 0 0 4px; */
+  /* padding: 0 0 0 5px; */
+  /* padding: 0 0 0 6px; */
+  /* padding: 0 0 0 7px; */
+  /* padding: 0 0 0 9px; */
+  padding: 0 0 0 8px;
+}
+
+/* Element | https://data.amplitude.com/amplidemo/AmpliShop%202.0/destinations */
+
+.Table_table-wrapper__3NIVk {
+  /* width: 1300px; */
+}
+
+/* Element | https://data.amplitude.com/amplidemo/AmpliShop%202.0/destinations */
+
+.Table_header-rowgroup__2iudn {
+  /* width: 1298px; */
+  /* width: 1288px; */
+  /* width: 1278px; */
+  /* width: 1258px; */
+  /* width: 1259px; */
+  /* width: 1260px; */
+  /* width: 1261px; */
+  /* width: 1262px; */
+  /* width: 1263px; */
+  /* width: 1264px; */
+  /* width: 1265px; */
+  /* width: 1266px; */
+  /* width: 1267px; */
+  /* width: 1268px; */
+  /* width: 1269px; */
+  /* width: 1270px; */
+  /* width: 1271px; */
+  /* width: 1272px; */
+  /* width: 1--; */
+  /* width: 1-; */
+  /* width: 1; */
+  /* width: 10; */
+  /* width: 100; */
+  /* width: 100%; */
+  /* min-width: 100%; */
+  /* min-width: 1; */
+  /* min-width: 10; */
+  /* min-width: 102; */
+  /* min-width: 1024; */
+  /* min-width: 1024p; */
+  /* margin: 0; */
+  /* margin: 0 ait; */
+  /* margin: 0 ai; */
+  /* margin: 0 a; */
+  /* margin: 0 auto; */
+  min-width: 1024px;
+}
+
+/* Element | https://data.amplitude.com/amplidemo/AmpliShop%202.0/destinations */
+
+.MeasureParentDimensionsAndRender_container__1xWce > div:nth-child(1) > div:nth-child(1) {
+  /* margin: 0; */
+  margin: 0 auto;
+}
+
+/* Element | https://data.amplitude.com/amplidemo/AmpliShop%202.0/destinations */
+
+div.Table_sortable__3AGrE:nth-child(1) {
+  /* width: 70px; */
+  /* width: 60px; */
+  width: 50px;
+}
